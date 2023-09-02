@@ -1,1 +1,1 @@
-# Development-of-a-V2X-testbed-to-study-the-characteristics-of-vehicular-networks
+# Development of a V2X Testbed to Study the Characteristics of Vehicular Networks
